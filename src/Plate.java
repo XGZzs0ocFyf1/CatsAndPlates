@@ -1,3 +1,4 @@
+//plate
 public class Plate {
 
     //amount of food

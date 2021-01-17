@@ -11,10 +11,9 @@ e) Найти позицию подстроки “Java” в строке “I 
 и) Преобразуйте строку к нижнему регистру.
 к) Вырезать строку Java c помощью метода String.substring().
 
-
  */
 
-
+//Strings
 public class StringHW {
 
 
@@ -30,7 +29,7 @@ public class StringHW {
         System.out.println(input.indexOf("Java"));
         System.out.println(input.indexOf("coffee"));
 
-        input.replace('e', 'i');
+
         System.out.println(input);
         System.out.println(input.replace('e', 'i'));
         System.out.println( input.toUpperCase());
