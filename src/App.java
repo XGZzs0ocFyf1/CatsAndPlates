@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-
+//app
 public class App {
     public static void main(String[] args) {
         Cat barsik = new Cat("Barsik", 5);
