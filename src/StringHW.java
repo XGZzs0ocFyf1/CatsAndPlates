@@ -29,7 +29,7 @@ public class StringHW {
         System.out.println(input.indexOf("Java"));
         System.out.println(input.indexOf("coffee"));
 
-        input.replace('e', 'i');
+
         System.out.println(input);
         System.out.println(input.replace('e', 'i'));
         System.out.println( input.toUpperCase());
